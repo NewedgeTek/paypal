@@ -1,6 +1,8 @@
 landmark
 simon
-dominion
+mercy
+echo " Enter Name"
+read $name
 Ayo
 obi
 Manager
