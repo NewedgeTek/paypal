@@ -1,4 +1,5 @@
 This is great
+this is great developing java app
 #This cript is to authenticate library users nbefore they can sign books out
 #!/bin/bash
  library=Menomenee-public-library
