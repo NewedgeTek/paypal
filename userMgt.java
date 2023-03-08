@@ -7,3 +7,4 @@ Ayo
 obi
 Manager
 Datti
+bug removed
